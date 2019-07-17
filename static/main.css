@@ -1,0 +1,33 @@
+.navbarr-text {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.background {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  height: 50%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container {
+  display: flex;
+}
+
+.button {
+  margin: 2%;
+}
+
+#console {
+  background-color: white;
+}
